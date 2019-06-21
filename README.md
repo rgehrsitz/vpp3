@@ -1,1 +1,1 @@
-vpp3
+This is the prototype of Visual Passage Planner 3.
